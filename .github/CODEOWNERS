@@ -1,0 +1,6 @@
+# This is a CODEOWNERS file.
+# Lines starting with '#' are comments.
+# Format: [pattern] [owner1] [owner2] [...]
+
+# Default owner for all files
+*          @bhanujggandhi @hrishikesh-deshpande @Mayush99
